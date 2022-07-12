@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/2432
+
 import math
 
 def binary_search(circles, low, high, distanceSC):

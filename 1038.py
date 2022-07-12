@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1038
+
 lanches = []
 for i in range(5):
 	lanches = lanches + [[0]*3]
