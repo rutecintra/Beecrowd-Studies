@@ -1,3 +1,3 @@
-# beecrowdStudies
+# Beecrowd Studies
 
-Criei esse repositório para adicionar minhas atividades e exercícios em python, realizados na plataforma Beecrowd
+I created this repository to be able to study programming again and, this time, using Python
